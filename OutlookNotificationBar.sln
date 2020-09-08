@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookNotificationBar", "OutlookNotificationBar\OutlookNotificationBar.csproj", "{F79603CC-F715-4D2B-A02F-21185C770335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tulpep.NotificationWindow", "OutlookNotificationBar\Tulpep.NotificationWindow\Tulpep.NotificationWindow.csproj", "{605006EB-D4E6-4312-A293-3A43FAC43240}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OutlookNotificationSetup", "OutlookNotificationSetup\OutlookNotificationSetup.vdproj", "{9F934820-85FB-46D8-B652-62A77B064DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79603CC-F715-4D2B-A02F-21185C770335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79603CC-F715-4D2B-A02F-21185C770335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79603CC-F715-4D2B-A02F-21185C770335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79603CC-F715-4D2B-A02F-21185C770335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605006EB-D4E6-4312-A293-3A43FAC43240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605006EB-D4E6-4312-A293-3A43FAC43240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605006EB-D4E6-4312-A293-3A43FAC43240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605006EB-D4E6-4312-A293-3A43FAC43240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F934820-85FB-46D8-B652-62A77B064DAC}.Debug|Any CPU.ActiveCfg = Debug
+		{9F934820-85FB-46D8-B652-62A77B064DAC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C54B392-7162-4D56-97B7-B6730F858D58}
+	EndGlobalSection
+EndGlobal
